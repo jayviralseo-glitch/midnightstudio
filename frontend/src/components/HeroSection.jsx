@@ -9,7 +9,7 @@ const HeroSection = () => {
           <div className="max-w-xl lg:max-w-2xl">
             {/* Main Heading */}
             <h1 className="text-white text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-bold leading-[1.15] mb-6 opacity-0 animate-fadeInUp">
-              Webcam Model Studio and Training Center in Cape Town
+              Webcam Model Studio and Training Center in Johannesburg
             </h1>
 
             {/* Yellow Underline */}
